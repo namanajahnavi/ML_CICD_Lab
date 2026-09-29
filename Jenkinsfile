@@ -4,7 +4,7 @@ pipeline {
 
     environment {
 
-        PYTHON = 'C:\\Users\\jahna\\ML_CICD_Lab\\venv\\Scripts\\python.exe'
+        PYTHON = 'C:\\Program Files\\PostgreSQL\\16\\pgAdmin 4\\python\\python.exe'
     }
 
     stages {
