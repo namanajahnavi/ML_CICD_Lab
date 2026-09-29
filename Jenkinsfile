@@ -4,7 +4,7 @@ pipeline {
 
     environment {
 
-        PYTHON = 'python'
+        PYTHON = 'C:\\Users\\jahna\\ML_CICD_Lab\\venv\\Scripts\\python.exe'
     }
 
     stages {
